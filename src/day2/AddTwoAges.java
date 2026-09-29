@@ -9,8 +9,8 @@ public class AddTwoAges {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-		//int komal=18;
-		//int pooja=22;
+		// int komal=18;
+		// int pooja=22;
 		System.out.println("pooja age is");
 		int pooja=sc.nextInt();
 		
