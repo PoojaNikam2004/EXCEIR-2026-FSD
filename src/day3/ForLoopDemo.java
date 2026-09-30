@@ -7,7 +7,7 @@ public class ForLoopDemo {
 		
 		int i=100;
 		for( i=1; i<=5; i=i+1) {
-			System.out.println("pooja" + i);
+			System.out.println("pooja Nikam" + i);
 			
 			i=i+1;
 			
