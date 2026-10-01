@@ -4,7 +4,7 @@ public class PrimeCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	//	int n =8;
+	    int n =8;
 		int count=0;
 		
 		for (int i=1; i<=n; i++) {
@@ -21,3 +21,5 @@ public class PrimeCheck {
 	}
 
 }
+
+
