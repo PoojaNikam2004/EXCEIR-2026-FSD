@@ -4,12 +4,7 @@ public class FactorialUsingLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		
-		
-
-		
-		        Scanner sc = new Scanner(System.in);
+               Scanner sc = new Scanner(System.in);
 
 		        System.out.print("Enter a positive number: ");
 		        int n = sc.nextInt();
