@@ -4,12 +4,7 @@ public class OddOrEven {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-
-		public class EvenOdd {
-		    public static void main(String[] args) {
-
-		        Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 
 		        System.out.print("Enter a number: ");
 		        int number = sc.nextInt();
@@ -23,8 +18,8 @@ public class OddOrEven {
 
 		        sc.close();
 		    }
-		}
+		
 
 	}
 
-}
+
