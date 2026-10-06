@@ -9,6 +9,10 @@ public class Student {
 			private double percentage;
 			
 			
+			public Student(int a, String b, double c) {
+				// TODO Auto-generated constructor stub
+			}
+
 			public void acceptStudent()
 			{
 				Scanner sc=new Scanner(System.in);

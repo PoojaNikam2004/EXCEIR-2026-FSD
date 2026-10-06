@@ -7,9 +7,12 @@ public class DriverApp {
 
 		
 	  public static void main(String[] args) {
-				Student s1=new Student();
-				s1.acceptStudent();
-				s1.displayStudent();
+			//	Student s1=new Student();
+			//	s1.acceptStudent();
+			//	s1.displayStudent();
+				Player p1= new Player();
+				p1.acceptPlayer();
+				p1.displayPlayer();
 
 			}
 
